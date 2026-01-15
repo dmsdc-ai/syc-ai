@@ -4,6 +4,15 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## 개발 헌법 참조
+
+이 프로젝트는 [Software Development Constitution](https://github.com/dmsdc-ai/constitution)을 따릅니다.
+
+- 전체 문서: https://github.com/dmsdc-ai/constitution/blob/main/CONSTITUTION.md
+- 빠른 참조: https://github.com/dmsdc-ai/constitution/blob/main/QUICK_REFERENCE.md
+
+**필수 준수 원칙:** SRP, DRY, KISS, YAGNI, 입력 검증, Fail Fast, Conventional Commits
+
 ## Project
 
 **syc-ai** - 세영화학 스마트팩토리 프로젝트
